@@ -1,2 +1,2 @@
 # FlutterPractice
-This repository is for uploading practice flutter files for the CINS 467 course
+This repository is for uploading practice flutter files in preparation for Android App Development
